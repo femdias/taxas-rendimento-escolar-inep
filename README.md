@@ -1,9 +1,11 @@
 # Taxas de Rendimento Escolar - INEP (1996-2005 e 2007-2022)
 
-Analisar o rendimento escolar (taxas de aprovação, reprovação e abandono) é fundamental para elaborar e avaliar políticas públicas educacionais. Infelizmente, o INEP apenas disponibiliza os dados de forma agregada por municípios a partir de 2007. Além disso, calcular essas taxas por meio dos microdados do Censo Educacional é muito difícil, pois as variáveis mudam muito de ano a ano (
+Analisar o rendimento escolar (taxas de aprovação, reprovação e abandono) é fundamental para elaborar e avaliar políticas públicas educacionais. Infelizmente, o INEP apenas disponibiliza os dados de forma agregada por municípios a partir de 2007 (disponíveis aqui[https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar]). Além disso, calcular essas taxas por meio dos microdados do Censo Educacional é muito difícil, pois as variáveis mudam muito de ano a ano (acreditem, eu tentei).
+
+Dado isso, resolvi abrir uma soicitação dos
 
 Essse repositório contem os dados 
-https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar
+
 
 
 
