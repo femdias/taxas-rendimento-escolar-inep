@@ -4,7 +4,7 @@
 In this code, we use the public available datasets and data obtained by
 request to the Ministry of Education to create a  timeseries of students
 performance rates (approval, failure and dropout rates) of
-students for each year of school and each dependence.
+students for each year of school, municipality and dependence.
 '''
 
 import numpy as np
